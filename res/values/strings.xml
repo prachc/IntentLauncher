@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IntentLauncher</string>
+    
+    <string name="caption_title">Intent Launcher</string>
+    <string name="caption_barcode">Lanuch Barcode Reader</string>
+    <string name="caption_bdb_add">Lanuch BookDB Add</string>
+    <string name="caption_bdb_sum">Lanuch BookDB Sum</string>
+    <string name="caption_gps">Lanuch GPS Locator</string>
+    <string name="caption_gpss">Lanuch GPS Service</string>
+    <string name="caption_cam">Capture Image</string>
+    <string name="caption_wae">Lanuch WA Extractor (Active)</string>
+    <string name="caption_waep">Lanuch WA Extractor (Passive Parcel)</string>
+    <string name="caption_waea">Lanuch WA Extractor (Passive AIDL)</string>
+    <string name="caption_wsca">Lanuch WS Connector (Active)</string>
+    <string name="caption_wscp1">Lanuch WS Connector (Passive AIDL)</string>
+    <string name="caption_wscp2">Lanuch WS Connector (Passive Parcel)</string>
+    <string name="caption_unbind">Unbind Services</string>
+    <string name="caption_finish">Exit</string>
+</resources>
